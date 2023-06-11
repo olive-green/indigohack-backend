@@ -1,0 +1,42 @@
+[
+    {
+        "name":"indigo A320",
+        "price": 1000000,
+        "flight_no": "6E-123",
+        "from": "Delhi",
+        "to": "Mumbai",
+        "date": "2020-12-12",
+        "time": "12:00",
+        "duration": "2:00"
+    },
+    {
+        "name":"indigo A320",
+        "price": 1000000,
+        "flight_no": "6E-123",
+        "from": "Delhi",
+        "to": "Mumbai",
+        "date": "2020-12-12",
+        "time": "12:00",
+        "duration": "2:00"
+    },
+    {
+        "name":"indigo A320",
+        "price": 1000000,
+        "flight_no": "6E-123",
+        "from": "Delhi",
+        "to": "Mumbai",
+        "date": "2020-12-12",
+        "time": "12:00",
+        "duration": "2:00"
+    },
+    {
+        "name":"indigo A320",
+        "price": 1000000,
+        "flight_no": "6E-123",
+        "from": "Delhi",
+        "to": "Mumbai",
+        "date": "2020-12-12",
+        "time": "12:00",
+        "duration": "2:00"
+    }
+]
